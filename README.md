@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat Khang</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluMnpmNXZuYzI2YXlyNTBzYjhrNmphdTZrN25vemU5aTA4ZmJqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhang0910&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhang0910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhatkhang0910" alt="nhatkhang0910" /></a> </p>
